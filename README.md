@@ -1,23 +1,66 @@
-<h1 align="center">Hi 👋, I'm Nicolas Peña Irurita</h1>
-<h3 align="center">A passionate Data Engineer and Backend Developer passionate about technology and innovation.</h3>
+<h1 align="center">👋 Hi, I'm <strong>Nicolás Peña Irurita</strong></h1>
+<h3 align="center">Data & AI Engineer | Backend Developer | Multi-Agent Systems Architect</h3>
 
-- 🔭 I’m currently working on **A personalized education project through distance learning platforms.**
+<p align="center">
+  I design, build, and orchestrate intelligent data systems—AI agents, scalable pipelines, backend architectures, and automation platforms that create real business impact.
+</p>
 
-- 🌱 I’m currently learning **Generative AI models, cloud services optimization, and new data analysis techniques.**
+---
 
-- 👯 I’m looking to collaborate on **Projects related to data analysis, API development, and business process automation.**
+## 🔥 About Me  
+- 🎯 **Data & AI Engineer** specializing in **multi-agent systems**, backend architecture, and intelligent automation.  
+- 🧠 2+ years building **ETL/ELT pipelines**, **AI agents**, **enterprise automation**, and **data platforms** for companies in automotive, healthcare, and digital services.  
+- 🤖 Passionate about **Generative AI**, **multi-agent orchestration**, **RAG**, **LLM systems**, **MLOps**, and **cloud-native engineering**.  
+- 🛠️ I integrate AI with ERPs, CRMs, SQL systems, and enterprise workflows to create automation with measurable impact.  
+- 🌎 Based in **Cali, Colombia** — available for global collaboration.
 
-- 🤝 I’m looking for help with **Optimization of machine learning processes and implementation of Big Data systems.**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/nicothinn](https://github.com/nicothinn)
+## 🏗️ Currently Working On  
+- 🚀 Building intelligent, real-time automation systems using **multi-agents**, OpenAI, LangChain & LangGraph.  
+- ☁️ Architecting cloud-native data systems (ETL, streaming, analytics) on **AWS, GCP & Azure**.  
+- 📊 Improving business process automation for companies through data engineering and AI integration.
 
-- 💬 Ask me about **Python, SQL, Java, data analysis, backend development, and entrepreneurship strategies.**
+---
 
-- 📫 How to reach me **nicoritabarona@gmail.com**
+## 🤝 Looking to Collaborate On  
+- AI agent orchestration • Backend systems • ETL pipelines  
+- RAG architectures • LLM applications • Business automation  
+- Data engineering products • Real-time analytics
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nicolas-pe%C3%B1a-1ab37b27a/](https://www.linkedin.com/in/nicolas-pe%C3%B1a-1ab37b27a/)
+---
 
-- ⚡ Fun fact **I believe in lifelong learning and always look for new challenges to solve.**
+## 💬 Ask Me About  
+`Python` · `SQL` · `Data Engineering` · `ETL/ELT Pipelines` · `Airflow` ·  
+`OpenAI API` · `Multi-Agent Systems` · `Backend (FastAPI)` · `Cloud` · `Docker`  
+`Data Modeling` · `Automation (n8n, Zapier, Make)` · `Analytics & BI`
+
+---
+
+# 📂 Featured Experience  
+
+### **Data Analyst — VIP Carwash (Automotive Services)**  
+- Designed **AI-powered agents** connected to SQL databases for automated customer scheduling and real-time service tracking.  
+- Built and maintained **ETL pipelines** integrating sales, CRM, and operational data.  
+- Developed **Power BI dashboards** for revenue, frequency, and service optimization.  
+- Implemented ML models for demand forecasting and resource allocation.
+
+---
+
+### **Independent Data & AI Consultant — Freelance**  
+- Built **cognitive agents and multi-agent systems** using OpenAI, LangChain, and LangGraph.  
+- Automated enterprise workflows using Python, SQL, and **n8n** (self-hosted and cloud).  
+- Designed pipelines for **MySQL, SQL Server, and SAP HANA** with QA and modeling best practices.  
+- Delivered workshops and training in BI, AI automation, data visualization, and cloud tools.
+
+---
+
+### **Data Analyst — Healthcare (EPS Delagente)**  
+- Automated clinical & administrative data pipelines with Python and Big Data techniques.  
+- Developed an **AI analytical agent** capable of answering natural-language queries based on operational datasets.  
+- Built centralized databases for medical orders, prescriptions, and compliance workflows.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
