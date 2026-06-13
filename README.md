@@ -9,7 +9,7 @@
 
 ## 🔥 About Me  
 - 🎯 **Data & AI Engineer** specializing in **multi-agent systems**, backend architecture, and intelligent automation.  
-- 🧠 2+ years building **ETL/ELT pipelines**, **AI agents**, **enterprise automation**, and **data platforms** for companies in automotive, healthcare, and digital services.  
+- 🧠 3+ years building **ETL/ELT pipelines**, **AI agents**, **enterprise automation**, and **data platforms** for companies in automotive, healthcare, and digital services.  
 - 🤖 Passionate about **Generative AI**, **multi-agent orchestration**, **RAG**, **LLM systems**, **MLOps**, and **cloud-native engineering**.  
 - 🛠️ I integrate AI with ERPs, CRMs, SQL systems, and enterprise workflows to create automation with measurable impact.  
 - 🌎 Based in **Cali, Colombia** — available for global collaboration.
